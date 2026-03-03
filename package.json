@@ -1,0 +1,30 @@
+{
+  "name": "study-token-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "split-tokens": "node scripts/split-tokens.mjs",
+    "build:light": "THEME=light npx tz build",
+    "build:dark": "THEME=dark npx tz build",
+    "build": "npm run split-tokens && npm run build:light && npm run build:dark",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagayama/study-token-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nagayama/study-token-studio/issues"
+  },
+  "homepage": "https://github.com/nagayama/study-token-studio#readme",
+  "devDependencies": {
+    "@terrazzo/cli": "^0.10.5",
+    "@terrazzo/plugin-css": "^0.10.4",
+    "@terrazzo/plugin-tailwind": "^0.3.3"
+  }
+}
