@@ -1,4 +1,5 @@
 node_modules/
 dist/
+dist-sd/
 tokens/core-light.json
 tokens/core-dark.json

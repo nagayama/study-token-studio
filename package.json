@@ -5,9 +5,11 @@
   "main": "index.js",
   "scripts": {
     "split-tokens": "node scripts/split-tokens.mjs",
-    "build:light": "THEME=light npx tz build",
-    "build:dark": "THEME=dark npx tz build",
-    "build": "npm run split-tokens && npm run build:light && npm run build:dark",
+    "build:tz:light": "THEME=light npx tz build",
+    "build:tz:dark": "THEME=dark npx tz build",
+    "build:tz": "npm run split-tokens && npm run build:tz:light && npm run build:tz:dark",
+    "build:sd": "npx style-dictionary build --config style-dictionary.config.mjs",
+    "build": "npm run build:tz && npm run build:sd",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +27,7 @@
   "devDependencies": {
     "@terrazzo/cli": "^0.10.5",
     "@terrazzo/plugin-css": "^0.10.4",
-    "@terrazzo/plugin-tailwind": "^0.3.3"
+    "@terrazzo/plugin-tailwind": "^0.3.3",
+    "style-dictionary": "^5.3.3"
   }
 }
