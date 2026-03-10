@@ -1,0 +1,18 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "collectionId": "VariableCollectionId:4:52",
+      "defaultModeId": "VariableCollectionId:4:52/4:22",
+      "modes": [
+        {
+          "modeId": "VariableCollectionId:4:52/4:22",
+          "name": "light"
+        },
+        {
+          "modeId": "VariableCollectionId:4:52/4:23",
+          "name": "dark"
+        }
+      ]
+    }
+  }
+}
