@@ -1,0 +1,24 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "styleType": "paint"
+    }
+  },
+  "text": {
+    "secondary": {
+      "$type": "color",
+      "$value": "#b8b8b8ff",
+      "$description": "",
+      "$extensions": {
+        "figmaSync": {
+          "styleId": "S:7714125cdabb06e94573c0a6fa74c13a4a63b2dc,",
+          "styleType": "paint",
+          "boundVariables": {},
+          "updatedHash": "933977c9b84cff8ce2aa8a26575e64d4280745116800c20f870088c2d8656720",
+          "syncedHash": "933977c9b84cff8ce2aa8a26575e64d4280745116800c20f870088c2d8656720",
+          "managed": true
+        }
+      }
+    }
+  }
+}
