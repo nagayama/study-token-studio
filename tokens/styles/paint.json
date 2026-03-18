@@ -1,0 +1,39 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "styleType": "paint"
+    }
+  },
+  "text": {
+    "primary": {
+      "$type": "color",
+      "$value": "#ffffffff",
+      "$description": "",
+      "$extensions": {
+        "figmaSync": {
+          "styleId": "S:fd166f96a3008b2e5965830436373046f0f9963b,",
+          "styleType": "paint",
+          "boundVariables": {},
+          "updatedHash": "4bfa71c4795f9977f00c3d85bdf22bf1eb4efd9ac9408b5fcac261995939297f",
+          "syncedHash": "4bfa71c4795f9977f00c3d85bdf22bf1eb4efd9ac9408b5fcac261995939297f",
+          "managed": true
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#b8b8b8ff",
+      "$description": "",
+      "$extensions": {
+        "figmaSync": {
+          "styleId": "S:7714125cdabb06e94573c0a6fa74c13a4a63b2dc,",
+          "styleType": "paint",
+          "boundVariables": {},
+          "updatedHash": "933977c9b84cff8ce2aa8a26575e64d4280745116800c20f870088c2d8656720",
+          "syncedHash": "933977c9b84cff8ce2aa8a26575e64d4280745116800c20f870088c2d8656720",
+          "managed": true
+        }
+      }
+    }
+  }
+}
