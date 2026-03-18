@@ -1,0 +1,22 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "collectionId": "VariableCollectionId:4:52",
+      "name": "red",
+      "defaultModeId": "4:22",
+      "modes": [
+        {
+          "modeId": "VariableCollectionId:4:52/4:22",
+          "name": "light"
+        },
+        {
+          "modeId": "VariableCollectionId:4:52/4:23",
+          "name": "dark"
+        }
+      ],
+      "updatedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
+      "syncedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
+      "managed": true
+    }
+  }
+}

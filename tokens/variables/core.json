@@ -1,0 +1,78 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "collectionId": "VariableCollectionId:4:28",
+      "name": "core",
+      "defaultModeId": "4:12",
+      "modes": [
+        {
+          "modeId": "4:12",
+          "name": "light"
+        },
+        {
+          "modeId": "4:13",
+          "name": "dark"
+        }
+      ],
+      "updatedHash": "bf77a37675012c011776eb19170168fea3670e03d6d02581b5b09fe510905e6b",
+      "syncedHash": "bf77a37675012c011776eb19170168fea3670e03d6d02581b5b09fe510905e6b",
+      "managed": true
+    }
+  },
+  "color": {
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#000000ff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#000000ff",
+            "dark": "#ffffffff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:29",
+            "collectionId": "VariableCollectionId:4:28",
+            "modeValues": {
+              "4:12": {
+                "hex": "#000000ff"
+              },
+              "4:13": {
+                "hex": "#ffffffff"
+              }
+            },
+            "updatedHash": "0ff6b25ab8ee774ecfa2c4903ee38f0d9c39725b5809a4a475ca952dd7960716",
+            "syncedHash": "0ff6b25ab8ee774ecfa2c4903ee38f0d9c39725b5809a4a475ca952dd7960716",
+            "managed": true
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#3f3f3fff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#3f3f3fff",
+            "dark": "#b8b8b8ff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:30",
+            "collectionId": "VariableCollectionId:4:28",
+            "modeValues": {
+              "4:12": {
+                "hex": "#3f3f3fff"
+              },
+              "4:13": {
+                "hex": "#b8b8b8ff"
+              }
+            },
+            "updatedHash": "63d91bb42f17f34d6c145ebb7a7a2901c216a3972ede9552c15008e1adba9c07",
+            "syncedHash": "63d91bb42f17f34d6c145ebb7a7a2901c216a3972ede9552c15008e1adba9c07",
+            "managed": true
+          }
+        }
+      }
+    }
+  }
+}

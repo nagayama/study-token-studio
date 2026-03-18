@@ -1,0 +1,37 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "styleType": "text"
+    }
+  },
+  "base": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Helvetica",
+      "fontStyle": "Bold",
+      "fontSize": 14,
+      "lineHeight": {
+        "unit": "AUTO"
+      },
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "paragraphSpacing": 0,
+      "paragraphIndent": 0,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    "$description": "",
+    "$extensions": {
+      "figmaSync": {
+        "styleId": "S:e4fc3b9d622c5dba56ece21a9b52a6ff4de35e3e,",
+        "styleType": "text",
+        "boundVariables": {},
+        "updatedHash": "3ada053054e3c44a39662b71a16059118d29398accc03086f07d5f467bf6a2be",
+        "syncedHash": "3ada053054e3c44a39662b71a16059118d29398accc03086f07d5f467bf6a2be",
+        "managed": true
+      }
+    }
+  }
+}
