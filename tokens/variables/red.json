@@ -3,7 +3,7 @@
     "figmaSync": {
       "collectionId": "VariableCollectionId:4:52",
       "name": "red",
-      "defaultModeId": "4:22",
+      "defaultModeId": "VariableCollectionId:4:52/4:22",
       "modes": [
         {
           "modeId": "VariableCollectionId:4:52/4:22",
@@ -14,8 +14,8 @@
           "name": "dark"
         }
       ],
-      "updatedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
-      "syncedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
+      "updatedHash": "ea931957fb417ce3f724e33a8f2048d267479ee0cc08e6f3b5afdd25aeb86af6",
+      "syncedHash": "ea931957fb417ce3f724e33a8f2048d267479ee0cc08e6f3b5afdd25aeb86af6",
       "managed": true
     }
   }
