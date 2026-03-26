@@ -3,7 +3,7 @@
     "figmaSync": {
       "collectionId": "VariableCollectionId:4:52",
       "name": "red",
-      "defaultModeId": "4:22",
+      "defaultModeId": "VariableCollectionId:4:52/4:22",
       "modes": [
         {
           "modeId": "VariableCollectionId:4:52/4:22",
@@ -14,9 +14,65 @@
           "name": "dark"
         }
       ],
-      "updatedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
-      "syncedHash": "18c34c8affa649a8b01eaa8ef197b0bd4e44d79d2809255b65e9846f55902667",
+      "updatedHash": "ea931957fb417ce3f724e33a8f2048d267479ee0cc08e6f3b5afdd25aeb86af6",
+      "syncedHash": "ea931957fb417ce3f724e33a8f2048d267479ee0cc08e6f3b5afdd25aeb86af6",
       "managed": true
+    }
+  },
+  "color": {
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#ff0000ff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#ff0000ff",
+            "dark": "#ff0000ff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:29",
+            "collectionId": "VariableCollectionId:4:52",
+            "modeValues": {
+              "VariableCollectionId:4:52/4:22": {
+                "hex": "#ff0000ff"
+              },
+              "VariableCollectionId:4:52/4:23": {
+                "hex": "#ff0000ff"
+              }
+            },
+            "updatedHash": "3d1c2d7887618dc9b811d2cfe90e1bd535877309a25af89ccc830e6969d6fa32",
+            "syncedHash": "3d1c2d7887618dc9b811d2cfe90e1bd535877309a25af89ccc830e6969d6fa32",
+            "managed": false
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#3f3f3fff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#3f3f3fff",
+            "dark": "#b8b8b8ff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:30",
+            "collectionId": "VariableCollectionId:4:52",
+            "modeValues": {
+              "VariableCollectionId:4:52/4:22": {
+                "hex": "#3f3f3fff"
+              },
+              "VariableCollectionId:4:52/4:23": {
+                "hex": "#b8b8b8ff"
+              }
+            },
+            "updatedHash": "1ebf7c8c30cac181eb2b6a3cc32825004e650ff02cc8640ee3825452e7334f07",
+            "syncedHash": "1ebf7c8c30cac181eb2b6a3cc32825004e650ff02cc8640ee3825452e7334f07",
+            "managed": false
+          }
+        }
+      }
     }
   }
 }
