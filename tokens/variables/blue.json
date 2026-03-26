@@ -1,0 +1,79 @@
+{
+  "$extensions": {
+    "figmaSync": {
+      "collectionId": "VariableCollectionId:116:10",
+      "parentCollectionId": "VariableCollectionId:4:28",
+      "name": "blue",
+      "defaultModeId": "VariableCollectionId:116:10/116:0",
+      "modes": [
+        {
+          "modeId": "VariableCollectionId:116:10/116:0",
+          "name": "light"
+        },
+        {
+          "modeId": "VariableCollectionId:116:10/116:1",
+          "name": "dark"
+        }
+      ],
+      "updatedHash": "7c758e8acf9e74b167595d03b5f9ad9c64b6bb464e65e788848af9039275e12b",
+      "syncedHash": "7c758e8acf9e74b167595d03b5f9ad9c64b6bb464e65e788848af9039275e12b",
+      "managed": false
+    }
+  },
+  "color": {
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#3d00f6ff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#3d00f6ff",
+            "dark": "#0d00ffff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:29",
+            "collectionId": "VariableCollectionId:116:10",
+            "modeValues": {
+              "VariableCollectionId:116:10/116:0": {
+                "hex": "#3d00f6ff"
+              },
+              "VariableCollectionId:116:10/116:1": {
+                "hex": "#0d00ffff"
+              }
+            },
+            "updatedHash": "64cb42c7cb1c8ab665d6bc7cb88451bd594b949a3e27cb7079b33c262d68f9ed",
+            "syncedHash": "64cb42c7cb1c8ab665d6bc7cb88451bd594b949a3e27cb7079b33c262d68f9ed",
+            "managed": false
+          }
+        }
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "#3f3f3fff",
+        "$description": "",
+        "$extensions": {
+          "mode": {
+            "light": "#3f3f3fff",
+            "dark": "#b8b8b8ff"
+          },
+          "figmaSync": {
+            "variableId": "VariableID:4:30",
+            "collectionId": "VariableCollectionId:116:10",
+            "modeValues": {
+              "VariableCollectionId:116:10/116:0": {
+                "hex": "#3f3f3fff"
+              },
+              "VariableCollectionId:116:10/116:1": {
+                "hex": "#b8b8b8ff"
+              }
+            },
+            "updatedHash": "77afd591f1691b23caa41b29ad155f4225904fd8776408e77b3a180ef3371a18",
+            "syncedHash": "77afd591f1691b23caa41b29ad155f4225904fd8776408e77b3a180ef3371a18",
+            "managed": false
+          }
+        }
+      }
+    }
+  }
+}
